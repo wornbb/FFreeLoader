@@ -1,0 +1,6 @@
+[submodule "alpha_vantag_api"]
+	path = alpha_vantag_api
+	url = ./alpha_vantag_api
+[submodule "yahoo_finance_api"]
+	path = yahoo_finance_api
+	url = ./yahoo_finance_api
